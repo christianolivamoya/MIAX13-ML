@@ -23,7 +23,7 @@ Autores:
 * **Bloque 1: Introducción al curso y al Machine Learning. Conceptos básicos de ML** [2025-05-13]
   * Notebook *1_1_introduccion_experimentando_con_activos*. Introducción a un primer concepto de ML con activos financieros.
   
-* **Bloque 2: K-Nearest Neighbors (KNN). Introducción a SKlearn y Google Colab** [2025-05-14]
+* **Bloque 2: K-Nearest Neighbors (KNN). Introducción a SKlearn y Google Colab** [2025-05-13 y 2025-05-14]
   * Notebook *2_1_knn*. Implementación manual de KNN. Comparación con `KNeighborsClassifier` de SKlearn.
   * Notebook *2_2_knn_experimentando_con_activos*. Uso de KNN con la misma idea de búsqueda de patrones en el tiempo. Introducción a `KNeighborsRegressor` de SKlearn.
   
