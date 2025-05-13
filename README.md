@@ -30,3 +30,22 @@ Autores:
 * **Bloque 3: Árboles de decisión** [2025-05-14]
   * Notebook *3_1_arboles*. Implementación de `DecisionTreeClassifier` y visualización del árbol con SKlearn.
   * Notebook *3_2_bancarrota*. Implementación con SKlearn.
+  
+* **Bloque 4: Preprocesamiento** [2025-05-16]
+
+* **Bloque 5: Evaluación** [2025-05-16]
+
+* **Bloque 6: Reducción de dimensionalidad** [2025-05-16]
+
+* **Bloque 7: Teoría Bayesiana: Naive Bayes** [2025-05-17]
+  * Notebook *7_1_Naive_Bayes*. Ejemplo de uso de SKlearn. Comparación de NB con KNN y árboles en un problema con dependencias entre atributos.
+
+* **Bloque 8: Modelos lineales** [2025-05-17]
+  * Notebook *8_1_ejemplos_regresion_lineal*. Dos ejemplos sencillos de aplicar la regresión lineal con SKlearn en finanzas.
+
+* **Bloque 9: SVMs** [2025-05-17]
+
+* **Bloque 10: Conjuntos de clasificadores** [2025-05-17]
+  * Notebook *10_1_conjuntos*. Implementación manual de los típicos algoritmos de conjuntos de clasificadores y comparación con la implementación de SKlearn.
+
+* **Bloque 11: Clustering** [2025-05-21 y 2025-05-22]
