@@ -1,0 +1,13 @@
+ipykernel
+nbconvert
+nbformat
+missingno
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+scikit-learn
+imbalanced-learn
+yfinance
+tqdm
