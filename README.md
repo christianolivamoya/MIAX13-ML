@@ -32,8 +32,10 @@ Autores:
   * Notebook *3_2_bancarrota*. Implementación con SKlearn.
   
 * **Bloque 4: Preprocesamiento** [2025-05-16]
+  * Notebook *4.0 Preprocesado de Datos*. Preprocesado de características con Numpy, Pandas, Missingno, Matplotlib, Seaborn y SKlearn.
 
 * **Bloque 5: Evaluación** [2025-05-16]
+  * Notebook *4.1 Métricas de Evaluación*. Separación en Train, Validation y Test. Métricas de evaluación de modelos de clasificación y regresión.
 
 * **Bloque 6: Reducción de dimensionalidad** [2025-05-16]
 
