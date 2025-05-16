@@ -31,7 +31,7 @@ Autores:
   * Notebook *3_1_arboles*. Implementación de `DecisionTreeClassifier` y visualización del árbol con SKlearn.
   * Notebook *3_2_bancarrota*. Implementación con SKlearn.
   
-* **Bloque 4: Preprocesamiento** [2025-05-16]
+* **Bloque 4: Preprocesamiento** [2025-05-14 y 2025-05-16]
   * Notebook *4.0 Preprocesado de Datos*. Preprocesado de características con Numpy, Pandas, Missingno, Matplotlib, Seaborn y SKlearn.
 
 * **Bloque 5: Evaluación** [2025-05-16]
@@ -44,8 +44,10 @@ Autores:
 
 * **Bloque 8: Modelos lineales** [2025-05-17]
   * Notebook *8_1_ejemplos_regresion_lineal*. Dos ejemplos sencillos de aplicar la regresión lineal con SKlearn en finanzas.
+  * Notebook *8_2_RegresionLogistica*. Ejemplo de uso de SKLearn. Explicación breve de problemas multiclase.
 
 * **Bloque 9: SVMs** [2025-05-17]
+  * Notebook *9_1_SVM*. Ejemplo de uso de SKlearn con distintos kernels.
 
 * **Bloque 10: Conjuntos de clasificadores** [2025-05-17]
   * Notebook *10_1_conjuntos*. Implementación manual de los típicos algoritmos de conjuntos de clasificadores y comparación con la implementación de SKlearn.
