@@ -38,6 +38,7 @@ Autores:
   * Notebook *4.1 Métricas de Evaluación*. Separación en Train, Validation y Test. Métricas de evaluación de modelos de clasificación y regresión.
 
 * **Bloque 6: Reducción de dimensionalidad** [2025-05-16]
+  * Notebook *4.2 Reducción de Dimensionalidad*. Estrategias de recucción de dimensionalidad.
 
 * **Bloque 7: Teoría Bayesiana: Naive Bayes** [2025-05-17]
   * Notebook *7_1_Naive_Bayes*. Ejemplo de uso de SKlearn. Comparación de NB con KNN y árboles en un problema con dependencias entre atributos.
