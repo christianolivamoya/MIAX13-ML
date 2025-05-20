@@ -54,3 +54,9 @@ Autores:
   * Notebook *10_1_conjuntos*. Implementación manual de los típicos algoritmos de conjuntos de clasificadores y comparación con la implementación de SKlearn.
 
 * **Bloque 11: Clustering** [2025-05-21 y 2025-05-22]
+  * Notebook *11_1_clustering_aglomerativo*. Implementación manual del clustering aglomerativo con distancia centroide y comparación con la librería Scipy. Ejemplo de clustering sobre el dataset MNIST.
+  * Notebook *11_2_KMeans*. Implementación manual del clustering KMeans y comparación con la implementación de SKlearn. Reducción de dimensionalidad con PCA para visualización.
+  * Notebook *11_3_EM*. Implementación de SKlearn. Ejemplo sencillo con un dataset de bancarrota.
+  * Notebook *11_4_DBSCAN*. Clustering particional vs densidad. Implementación manual de DBSCAN. Ejemplo de clustering sobre el dataset MNIST. Propuesta de DBSCAN iterativo.
+  * Notebook *11_5_comparacion_clustering*. Dos ejercicios para comparar cómo funcionan los algoritmos típicos de clustering.
+  * Notebook *11_6_clustering_activos*. Experimentando con hacer clustering de activos.
